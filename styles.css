@@ -1003,3 +1003,7 @@ footer > small {
     transition-duration: 0.01ms !important;
   }
 }
+
+.countdown[hidden] {
+  display: none !important;
+}
